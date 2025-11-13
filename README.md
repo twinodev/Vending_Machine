@@ -1,4 +1,5 @@
 # Vending Machine Simulator (C)
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/VY44H6DSDJKJ4)
 
 A **console-based vending machine** written in **C** as a university personal project.
 
@@ -81,3 +82,4 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 >Free to use, modify, and distribute.
 >
 **BUY ME COFFEE🫅**
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/VY44H6DSDJKJ4)
